@@ -1,7 +1,9 @@
 ## Hi there 👋
-"Even when it rains and nourishes the dry land, the cloud remains in its place."
+"Even when it rains and nourishes the dry land,
+the cloud remains in its place."
 
 — A reflection on staying true to yourself while making an impact.
+
 <!--
 <h1 align="center">Hi 👋, I'm Lozii</h1>
 <h3 align="center">Backend Developer & Student at Mandakh University (Мандах Их Сургууль)</h3>
